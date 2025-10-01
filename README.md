@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyen Huu Ngan, MSSV 220659.
+Đây là README từ nhánh conflict-demo.
